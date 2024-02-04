@@ -1,7 +1,9 @@
 # Concurrency
 SCC.211 Programming Coursework on Concurrency
 
-Concurrency is a program developed to implement threads within Java, as part of SCC.211: Advanced Programming within the School of Computing & Communications, Lancaster University, UK. This work achieved 100% (A+), contributing towards the achievement of a First-Class BSc (Hons) Degree in Computer Science.
+Concurrency is a program developed to implement threads within Java, as part of SCC.211: Advanced Programming within the School of Computing & Communications, Lancaster University, UK.
+
+This work achieved 100% (A+), contributing towards the achievement of a First-Class BSc (Hons) Degree in Computer Science.
 
 ------------------------------------------------
 
